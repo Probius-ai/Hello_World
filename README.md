@@ -1,3 +1,9 @@
 # Hello_World
 ## First Time Using github
-- https://docs.github.com/ko/get-started/start-your-journey/setting-up-your-profile
+
+### Stuff for editing profile
+- https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+### MarkDown CheatSheet
+- https://www.markdownguide.org/cheat-sheet/
+### Emoji CheatSheet
+- https://www.webfx.com/tools/emoji-cheat-sheet/
